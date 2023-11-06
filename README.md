@@ -6,7 +6,7 @@ Welcome to Quizify, a web application for creating and taking quizzes!
 
 You can access the live deployment of Quizify-WebApp by visiting the following URL:
 
-[Quizify-WebApp Live](https://footcricket05.github.io/Quizify-WebApp/)
+[Quizify-WebApp Live](https://footcricket05.github.io/Quizify/)
 
 Feel free to explore the application and use its features online. This live version allows you to create, take, and manage quizzes with ease.
 
